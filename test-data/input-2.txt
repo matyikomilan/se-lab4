@@ -1,4 +1,0 @@
-#nemtudvaltani -> meg egyszer primary
-GT4500,10,0,0,0
-TORPEDO,SINGLE
-TORPEDO,SINGLE
